@@ -12,7 +12,7 @@ The products run on my employer's data and stay private. What is here is the tec
 - **supabase-security-audit**: the read-only audit I ran against my own production database before anyone asked. 45 functions now execute only under the service role.
 - **image-to-excel-converter**: photograph a document, get a clean Excel file. Claude Vision does the extraction, one of the two places in anything I have built where a model actually runs.
 
-I published the four pattern repos on the same day in August 2026, when I decided to write them up for a job search. The commit history is short on purpose. The reasoning is not.
+I wrote the four pattern repos up in one sitting in August 2026, when I started a job search, so their commit history is short. The systems behind them have been running since 2024.
 
 **Stack:** TypeScript, JavaScript, React, Next.js, Node.js, Python, PostgreSQL, Supabase, row-level security, REST APIs, Mapbox GL JS, Vercel, n8n, PWA.
 
