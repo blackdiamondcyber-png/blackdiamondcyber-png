@@ -2,7 +2,7 @@
 
 Forward Deployed Engineer. Nine years customer-facing in field sales for a $6B distributor, and since 2023 the engineer who builds, deploys, and supports the software those same field teams use.
 
-Three applications have run in production since 2024 across three regional offices: 22,494 practices mapped, 77 provisioned users, 54 activated, 38 of them active in the last 90 days. Multi-tenant row-level security enabled on all 47 core tables and carrying 133 policies. I designed the schema, wrote the front ends, built the auth and RLS model, deployed it, ran the onboarding sessions, and still support all of it while carrying a full sales quota.
+Three applications have run in production since 2024 across three regional offices: 22,494 accounts mapped, 77 provisioned users, 54 activated, 38 of them active in the last 90 days. Multi-tenant row-level security enabled on all 47 core tables and carrying 133 policies. I designed the schema, wrote the front ends, built the auth and RLS model, deployed it, ran the onboarding sessions, and still support all of it while carrying a full sales quota.
 
 The products run on my employer's data and stay private. What is here is the technique underneath them, pulled out and written up so you can read the actual work in a few minutes:
 
