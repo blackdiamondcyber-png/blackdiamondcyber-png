@@ -18,4 +18,4 @@ I wrote the four pattern repos up in one sitting in August 2026, when I started 
 
 Open to travel and on-site deployment.
 
-[Portfolio](https://erik-pearson-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/erikpearson2) · [Resume (PDF)](https://erik-pearson-portfolio.vercel.app/Erik_Pearson_Resume.pdf)
+[Portfolio](https://erik-pearson-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/erikpearson2) · [Resume (PDF)](https://erik-pearson-portfolio.vercel.app/Erik_Pearson_Resume.pdf) · [Walkthrough videos](https://www.youtube.com/@TexasFDE)
