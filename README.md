@@ -16,6 +16,8 @@ I wrote the four pattern repos up in one sitting in August 2026, when I started 
 
 **Stack:** TypeScript, JavaScript, React, Next.js, Node.js, Python, PostgreSQL, Supabase, row-level security, REST APIs, Mapbox GL JS, Vercel, n8n, PWA.
 
+Outside work: TinyTally, a baby tracker I built for my own family and shipped to the App Store. Next.js, TypeScript, Supabase with row-level security on all 21 tables, offline-first writes through an IndexedDB queue and a hand-rolled service worker, 1,225 tests, 42 migrations since July 2026. The repo is private (a family app); the [live walkthrough](https://www.youtube.com/watch?v=pFtf6lvvLDU) shows it running on production against a seeded family.
+
 Open to travel and on-site deployment.
 
 [Portfolio](https://erik-pearson-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/erikpearson2) · [Resume (PDF)](https://erik-pearson-portfolio.vercel.app/Erik_Pearson_Resume.pdf) · [Walkthrough videos](https://www.youtube.com/@TexasFDE)
