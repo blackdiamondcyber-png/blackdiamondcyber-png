@@ -2,7 +2,7 @@
 
 Forward Deployed Engineer. Nine years customer-facing in field sales for a $6B distributor, and since 2023 the engineer who builds, deploys, and supports the software those same field teams use.
 
-Three applications have run in production since 2024 across three regional offices: 22,494 accounts mapped, 77 provisioned users, adopted with no mandate and no official project status behind it. Multi-tenant row-level security enabled on all 47 core tables and carrying 133 policies. I designed the schema, wrote the front ends, built the auth and RLS model, deployed it, ran the onboarding sessions, and still support all of it while carrying a full sales quota.
+Three applications have run in production since 2024 across three regional offices: 17,770 accounts live on the map, resolved from 22,494 source records, and 77 provisioned users who adopted it with no mandate and no official project status behind it. Multi-tenant row-level security enabled on all 47 core tables and carrying 133 policies. I designed the schema, wrote the front ends, built the auth and RLS model, deployed it, ran the onboarding sessions, and still support all of it while carrying a full sales quota.
 
 The products run on my employer's data and stay private. What is here is the technique underneath them, pulled out and written up so you can read the actual work in a few minutes:
 
@@ -17,7 +17,7 @@ I wrote the four pattern repos up in one sitting in August 2026, when I started 
 
 **Stack:** TypeScript, JavaScript, React, Next.js, Node.js, Python, PostgreSQL, Supabase, row-level security, REST APIs, Mapbox GL JS, Vercel, n8n, PWA.
 
-Outside work: TinyTally, a baby tracker I built for my own family, now in App Store review. Next.js, TypeScript, Supabase with row-level security on all 21 tables, offline-first writes through an IndexedDB queue and a hand-rolled service worker, 1,225 tests, 42 migrations since July 2026. The repo is private (a family app); the [live walkthrough](https://www.youtube.com/watch?v=pFtf6lvvLDU) shows it running on production against a seeded family.
+Outside work: TinyTally, a baby tracker I built for my own family, now in App Store review. Next.js, TypeScript, Supabase with row-level security on all 21 tables, offline-first writes through an IndexedDB queue and a hand-rolled service worker, 1,297 tests, 42 migrations since July 2026. The repo is private (a family app); the [live walkthrough](https://www.youtube.com/watch?v=pFtf6lvvLDU) shows it running on production against a seeded family.
 
 Open to travel and on-site deployment.
 
