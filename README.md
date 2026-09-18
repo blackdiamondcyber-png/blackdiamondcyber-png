@@ -10,6 +10,7 @@ The products run on my employer's data and stay private. What is here is the tec
 - **entity-resolution-postgres**: deduplicating business records from three sources that never agree. Normalize, block, score, survivorship. No external service, no ML pipeline, just SQL.
 - **n8n-approval-patterns**: tokenized multi-stage approvals. Single-use hashed tokens, GET to confirm and POST to commit, an audit trail.
 - **supabase-security-audit**: the read-only audit I ran against my own production database before anyone asked. 45 functions now execute only under the service role.
+- **field-notes-to-crm**: a dictated visit note in, a structured CRM activity row out, using Claude with a strict tool schema. The point of the repo is the eval harness next to it: 150 labelled notes, per-field scores, hallucination rate, cost per run, and a gate that fails the build if a prompt change drops any headline metric by more than two points.
 - **image-to-excel-converter**: photograph a document, get a clean Excel file. Claude Vision does the extraction, one of the two places in anything I have built where a model actually runs.
 
 I wrote the four pattern repos up in one sitting in August 2026, when I started a job search, so their commit history is short. The systems behind them have been running since 2024.
