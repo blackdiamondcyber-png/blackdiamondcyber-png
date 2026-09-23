@@ -23,6 +23,8 @@ The products run on my employer's data and stay private. What is here is the tec
 
 I wrote the four pattern repos up in one sitting in August 2026, when I started a job search, so their commit history is short. The systems behind them have been running since 2024. The two eval repos are newer still: both were built in September 2026, with Claude Code, and their histories are short for the same reason.
 
+Outside work: **[gods-eye-view-mobile-patch](https://github.com/blackdiamondcyber-png/gods-eye-view-mobile-patch)**, a phone layout patch for an open-source 3D globe app. Its numbers come from a committed script that measures the app with and without the patch, and that script proved two of the README's own earlier claims wrong.
+
 **Stack:** Claude API (tool use, structured output, Vision), LLM evals, Claude Code, TypeScript, JavaScript, Python, SQL, React, Next.js, Node.js, PostgreSQL, Supabase, row-level security, REST APIs, Mapbox GL JS, Vercel, n8n, PWA.
 
 Outside work: TinyTally, a baby tracker I built for my own family, now in App Store review. Next.js, TypeScript, Supabase with row-level security on all 21 tables, offline-first writes through an IndexedDB queue and a hand-rolled service worker, 1,297 tests, 42 migrations since July 2026. The repo is private (a family app); the [live walkthrough](https://www.youtube.com/watch?v=pFtf6lvvLDU) shows it running on production against a seeded family.
