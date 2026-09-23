@@ -21,7 +21,7 @@ The products run on my employer's data and stay private. What is here is the tec
 - **[supabase-security-audit](https://github.com/blackdiamondcyber-png/supabase-security-audit)**: the read-only audit I ran against my own production database before anyone asked. 45 functions now execute only under the service role. CI runs the audit against a seeded database, which is how it found two bugs in the audit itself.
 - **[image-to-excel-converter](https://github.com/blackdiamondcyber-png/image-to-excel-converter)**: photograph a document, get a clean Excel file. Claude Vision does the extraction. It is one of three capture tools where a model actually runs, alongside a barcode scanner and a part finder. The three territory apps run no models.
 
-I wrote the four pattern repos up in one sitting in August 2026, when I started a job search, so their commit history is short. The systems behind them have been running since 2024.
+I wrote the four pattern repos up in one sitting in August 2026, when I started a job search, so their commit history is short. The systems behind them have been running since 2024. The two eval repos are newer still: both were built in September 2026, with Claude Code, and their histories are short for the same reason.
 
 **Stack:** Claude API (tool use, structured output, Vision), LLM evals, Claude Code, TypeScript, JavaScript, Python, SQL, React, Next.js, Node.js, PostgreSQL, Supabase, row-level security, REST APIs, Mapbox GL JS, Vercel, n8n, PWA.
 
