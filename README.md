@@ -11,7 +11,7 @@ I test a prompt or an agent against labelled data before I trust it, and I grade
 
 ## Production
 
-Three applications have run in production since 2024 across three regional offices: 17,833 accounts live on the map, out of 22,772 resolved business locations, and 77 provisioned users who adopted it with no mandate and no official project status behind it. Row-level security is on every table, with 133 policies across the 42 tables the apps read and write. I designed the schema, wrote the front ends, built the auth and RLS model, deployed it, ran the onboarding sessions, and still support all of it while carrying a full sales quota.
+Three applications have run in production since 2024 across three regional offices: 17,815 accounts live on the map, out of 22,772 resolved business locations, and 77 provisioned users who adopted it with no mandate and no official project status behind it. Row-level security is on every table, with 128 policies across the 37 application tables. I designed the schema, wrote the front ends, built the auth and RLS model, deployed it, ran the onboarding sessions, and still support all of it while carrying a full sales quota.
 
 The products run on my employer's data and stay private. What is here is the technique underneath them, pulled out and written up so you can read the actual work in a few minutes:
 
