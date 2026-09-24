@@ -27,7 +27,7 @@ Outside work: **[gods-eye-view-mobile-patch](https://github.com/blackdiamondcybe
 
 **Stack:** Claude API (tool use, structured output, Vision), LLM evals, Claude Code, TypeScript, JavaScript, Python, SQL, React, Next.js, Node.js, PostgreSQL, Supabase, row-level security, REST APIs, Mapbox GL JS, Vercel, n8n, PWA.
 
-Outside work: TinyTally, a baby tracker I built for my own family, now in App Store review. Next.js, TypeScript, Supabase with row-level security on all 21 tables, offline-first writes through an IndexedDB queue and a hand-rolled service worker, 1,297 tests, 42 migrations since July 2026. The repo is private (a family app); the [live walkthrough](https://www.youtube.com/watch?v=pFtf6lvvLDU) shows it running on production against a seeded family.
+Outside work: TinyTally, a baby tracker I built for my own family, being prepared for App Store submission. Next.js, TypeScript, Supabase with row-level security on all 21 tables, offline-first writes through an IndexedDB queue and a hand-rolled service worker, and 1,609 tests across 111 files. The repo is private (a family app); the [live walkthrough](https://www.youtube.com/watch?v=pFtf6lvvLDU) shows it running on production against a seeded family.
 
 Open to travel and on-site deployment.
 
